@@ -1,0 +1,45 @@
+
+/* Class = "UIButton"; normalTitle = "Carrinho"; ObjectID = "4bf-zx-wf2"; */
+"4bf-zx-wf2.normalTitle" = "Carrinho";
+
+/* Class = "UIButton"; normalTitle = "Confirmar"; ObjectID = "5rl-I2-l2r"; */
+"5rl-I2-l2r.normalTitle" = "Confirmar";
+
+/* Class = "UITextField"; text = "150"; ObjectID = "9SZ-sC-8G5"; */
+"9SZ-sC-8G5.text" = "150";
+
+/* Class = "UILabel"; text = "Quantidade"; ObjectID = "9x3-KC-Duy"; */
+"9x3-KC-Duy.text" = "Quantidade";
+
+/* Class = "UIButton"; normalTitle = "Confirmar"; ObjectID = "Mob-7j-eWb"; */
+"Mob-7j-eWb.normalTitle" = "Confirmar";
+
+/* Class = "UILabel"; text = "Quantidade"; ObjectID = "Vg2-a9-hcf"; */
+"Vg2-a9-hcf.text" = "Quantidade";
+
+/* Class = "UITextField"; text = "150"; ObjectID = "VgD-ib-tiu"; */
+"VgD-ib-tiu.text" = "150";
+
+/* Class = "UILabel"; text = "Social"; ObjectID = "Wsc-oy-0M6"; */
+"Wsc-oy-0M6.text" = "Social";
+
+/* Class = "UILabel"; text = "Stocky"; ObjectID = "cmZ-pd-wB8"; */
+"cmZ-pd-wB8.text" = "Stocky";
+
+/* Class = "UILabel"; text = "Quantidade"; ObjectID = "erH-Li-KGQ"; */
+"erH-Li-KGQ.text" = "Quantidade";
+
+/* Class = "UITextField"; text = "150"; ObjectID = "erR-5i-Pe3"; */
+"erR-5i-Pe3.text" = "150";
+
+/* Class = "UILabel"; text = "Vendas"; ObjectID = "kjP-Z7-GaN"; */
+"kjP-Z7-GaN.text" = "Vendas";
+
+/* Class = "UILabel"; text = "Estoque"; ObjectID = "pq1-5s-ARL"; */
+"pq1-5s-ARL.text" = "Estoque";
+
+/* Class = "UIButton"; normalTitle = "Confirmar"; ObjectID = "r6r-B2-z5w"; */
+"r6r-B2-z5w.normalTitle" = "Confirmar";
+
+/* Class = "UILabel"; text = "Social"; ObjectID = "vdS-pY-BBN"; */
+"vdS-pY-BBN.text" = "Social";
